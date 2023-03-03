@@ -1,4 +1,4 @@
 # CameraPhoto
 #camera photos click web app 
 #JS #html #css 
-cameraphotos.netlify.app
+https://cameraphotos.netlify.app
